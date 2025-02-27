@@ -34,7 +34,7 @@ Link "service" to /run/runit/service
  ln -s /etc/sv /var/service
  
  
-Action	Command
+Action	Commands:
 
 Start	sv up service_name or sv start service_name
 
