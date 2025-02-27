@@ -8,13 +8,13 @@ Spoiler it's VERY EASY. Preveosly I collected this info from difirent sites, so 
 
 My Guide how to create & supervise (a little) services in Void linux & Artix linux:
 
-make folder <Service name> in  /etc/runit/sv/
+make folder <Service_name> in  /etc/runit/sv/
 
 ** Artix linux
-make file "run" in folder /etc/runit/sv/<Service name>
+make file "run" in folder /etc/runit/sv/<Service_name>
 
 ** Void linux
-make file "run" in folder /etc/sv/<Service name>
+make file "run" in folder /etc/sv/<Service_name>
 
 make file executable  <run>
 
