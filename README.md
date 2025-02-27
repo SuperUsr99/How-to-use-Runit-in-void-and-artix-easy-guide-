@@ -34,9 +34,15 @@ Link "service" to /run/runit/service
  ln -s /etc/sv /var/service
  
  
- Action	Command
+Action	Command
+
 Start	sv up service_name or sv start service_name
+
 Stop	sv down service_name or sv stop service_name
+
 Restart	sv restart service_name
+
 Send SIGHUP	sv hup service_name
+
 Check status	sv status service_name
+
