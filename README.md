@@ -42,7 +42,7 @@ Stop	sv down service_name or sv stop service_name
 
 Restart	sv restart service_name
 
-Send SIGHUP	sv hup service_name
+Send sightup	sv hup service_name
 
 Check status	sv status service_name
 
