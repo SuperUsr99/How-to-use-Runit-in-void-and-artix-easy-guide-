@@ -22,7 +22,7 @@ Code in file like this:
 
 #!/bin/sh
 
-exec /bin/<Service name>
+exec /bin/<Service_name>
 
 
 Link "service" to /run/runit/service
