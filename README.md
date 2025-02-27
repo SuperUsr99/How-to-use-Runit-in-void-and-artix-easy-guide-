@@ -1,4 +1,4 @@
-# How to use Runit in Void linux and Artix linux easyguide
+# How to use Runit in Void linux and Artix linux easy guide
 My personal guide for runit
 
 So, I used this guide my self on Void and Artix linux, it worket on both of it.
